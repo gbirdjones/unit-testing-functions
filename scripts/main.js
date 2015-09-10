@@ -65,6 +65,9 @@ function absVal(integer) {
  *
  * If the input is invalid throw an 'Invalid Input' exception.
  */
+ function myMin(integer) {
+ 	
+ }
 
 /*
  * PROBLEM `myMax`: (normal) - Actual Interview Question
